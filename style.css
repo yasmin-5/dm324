@@ -35,7 +35,7 @@ div{
 
 }
 table{
-    widows: 50%;
+    width: 50%;
     border-collapse: collapse;
 
 }
@@ -48,4 +48,15 @@ thead tr{
 }
 tbody tr:nth-child(odd){
 background-color: lightgrey;
+}
+.searchbar{
+width:20%;
+height: auto;
+border: 1px;
+border-style: solid;
+border-color:  #dfe1e5;
+margin: 8px auto;
+border-radius: 24px;
+padding: 0px 10px;
+
 }
